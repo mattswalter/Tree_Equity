@@ -1,0 +1,42 @@
+Variable,Boston,New York City,Philadelphia,Baltimore,Washington D.C.,extra
+Asian,100000,,,,,
+Asian,,-0.096950748,,,,
+Asian,,,100000,,,
+Asian,,,,100000,,
+Asian,,,,,100000,
+Asian,,,,,,0
+Black,100000,,,,,
+Black,,-0.158508,,,,
+Black,,,100000,,,
+Black,,,,100000,,
+Black,,,,,100000,
+Black,,,,,,0
+Hispanic,100000,,,,,
+Hispanic,,-0.200210166,,,,
+Hispanic,,,-0.134264808,,,
+Hispanic,,,,100000,,
+Hispanic,,,,,100000,
+Hispanic,,,,,,0
+Median Income,100000,,,,,
+Median Income,,100000,,,,
+Median Income,,,0.281440928,,,
+Median Income,,,,100000,,
+Median Income,,,,,100000,
+Median Income,,,,,,0
+Renters,-0.388223202,,,,,
+Renters,,-0.295959307,,,,
+Renters,,,100000,,,
+Renters,,,,100000,,
+Renters,,,,,100000,
+Renters,,,,,,0
+Year Home Built,-0.173111539,,,,,
+Year Home Built,,-0.175073552,,,,
+Year Home Built,,,100000,,,
+Year Home Built,,,,100000,,
+Year Home Built,,,,,-0.342297416,
+Year Home Built,,,,,,0
+Population Density,0.285448186,,,,,
+Population Density,,100000,,,,
+Population Density,,,-0.340100158,,,
+Population Density,,,,-0.33537253,,
+Population Density,,,,,-0.259232798,

@@ -1,0 +1,36 @@
+Variable,Boston,New York City,Philadelphia,Baltimore,Washington D.C.
+Asian,-0.0796,,,,
+Asian,,-0.0876,,,
+Asian,,,-0.0549,,
+Asian,,,,0.0639,
+Asian,,,,,0.0164
+,,,,,
+Black,0.2962,,,,
+Black,,0.0551,,,
+Black,,,0.1014,,
+Black,,,,0.25,
+Black,,,,,0.2398
+,,,,,
+Hispanic,0.0352,,,,
+Hispanic,,-0.0377,,,
+Hispanic,,,-0.1051,,
+Hispanic,,,,-0.0402,
+Hispanic,,,,,0.0027
+,,,,,
+Median Income,-0.2084,,,,
+Median Income,,-0.2015,,,
+Median Income,,,0.124,,
+Median Income,,,,0.2319,
+Median Income,,,,,0.1588
+,,,,,
+Renters,-0.4603,,,,
+Renters,,-0.3324,,,
+Renters,,,-0.0179,,
+Renters,,,,-0.3086,
+Renters,,,,,-0.2978
+,,,,,
+Population Density,-0.0588,,,,
+Population Density,,-0.1054,,,
+Population Density,,,-0.3072,,
+Population Density,,,,-0.1371,
+Population Density,,,,,-0.1733
